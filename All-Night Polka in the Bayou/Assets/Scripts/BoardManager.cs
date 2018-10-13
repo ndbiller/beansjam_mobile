@@ -12,7 +12,6 @@ public class BoardManager : MonoBehaviour
 		public int minimum; 			//Minimum value for our Count class.
 		public int maximum; 			//Maximum value for our Count class.
 		
-		
 		//Assignment constructor.
 		public Count (int min, int max)
 		{
@@ -20,7 +19,6 @@ public class BoardManager : MonoBehaviour
 			maximum = max;
 		}
 	}
-	
 	
 	public int columns = 8; 										//Number of columns in our game board.
 	public int rows = 8;											//Number of rows in our game board.
@@ -35,7 +33,6 @@ public class BoardManager : MonoBehaviour
 	
 	private Transform boardHolder;									//A variable to store a reference to the transform of our Board object.
 	private List <Vector3> gridPositions = new List <Vector3> ();	//A list of possible locations to place tiles.
-	
 	
 	//Clears our list gridPositions and prepares it to generate a new board.
 	void InitialiseList ()
@@ -54,7 +51,6 @@ public class BoardManager : MonoBehaviour
 			}
 		}
 	}
-	
 	
 	//Sets up the outer walls and floor (background) of the game board.
 	void BoardSetup ()
@@ -85,7 +81,6 @@ public class BoardManager : MonoBehaviour
 		}
 	}
 	
-	
 	//RandomPosition returns a random position from our list gridPositions.
 	Vector3 RandomPosition ()
 	{
@@ -101,7 +96,6 @@ public class BoardManager : MonoBehaviour
 		//Return the randomly selected Vector3 position.
 		return randomPosition;
 	}
-	
 	
 	//LayoutObjectAtRandom accepts an array of game objects to choose from along with a minimum and maximum range for the number of objects to create.
 	void LayoutObjectAtRandom (GameObject[] tileArray, int minimum, int maximum)
@@ -122,7 +116,6 @@ public class BoardManager : MonoBehaviour
 			Instantiate(tileChoice, randomPosition, Quaternion.identity);
 		}
 	}
-	
 	
 	//SetupScene initializes our level and calls the previous functions to lay out the game board
 	public void SetupScene (int level)

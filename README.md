@@ -49,4 +49,6 @@ Hard!
 
 ![**step one**: finding a name and an idea (the easy way).](img/namefinding.png "screenshot of the video game name generator used to come up with the game title randomly")
 
-![**step two**: follow tutorial one.](img/units.png "screenshot of the player and enemies in unity 3d in their idle animation")
+![**step two**: creating the units.](img/units.png "screenshot of the player and enemies in unity 3d in their idle animation")
+
+![**step three**: creating the tiles.](img/tiles.png "screenshot of the floor, items and enemy tiles being randomly created by the game manager")
