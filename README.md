@@ -17,8 +17,6 @@ Hard!
 
 **Overwiew**: I will be Following some simple Unity tutorials, testing the 2D features of Unity (since I haven't been using Unity for quite some time now) while working with the included prototyping sprites from the tutorial available from the Unity asset store. Then I will switch them out along the way with some handmade pixel art and sprites inspired by the Rocketbeans guys and their work which I'll be creating in Aseprite. I'll add some more pictures telling a story, and thus working in the two required themes I have selected for this game from the three available ones: **Blues**, **Jahrmarkt** and **Dilemma**. Then I'll add some soundeffects and try to find a few polka-and-blues-inspired songs that complement the atmosphere and story of the project. In the end this will hopefully produce the 2D android rogue-like apk before the 48 hour timer hits zero. And finally, I'll try to document the necessary project steps and all the progress done here. Hopefully this'll show others how making games is fun and how this all can easily be be done by anyone if you just try.
 
-![**step one**: finding a name and an idea (the easy way).](img/namefinding.png "screenshot of the video game name generator used to come up with the game title randomly")
-
 ### Tools and Ressources:
 - Title and initial idea created using the awesome video game name generator: [https://videogamena.me/](https://videogamena.me/).
 - Pixel art will be done using the fantastic pixel art graphic editor Aseprite: [https://www.aseprite.org/](https://www.aseprite.org/) \*
@@ -46,3 +44,9 @@ Hard!
 
 ### Download
 *no apk yet*
+
+### Screenshots
+
+![**step one**: finding a name and an idea (the easy way).](img/namefinding.png "screenshot of the video game name generator used to come up with the game title randomly")
+
+![**step two**: follow tutorial one.](img/units.png "screenshot of the player and enemies in unity 3d in their idle animation")
