@@ -21,16 +21,16 @@ Hard!
 
 ### Tools and Ressources:
 - Title and initial idea created using the awesome video game name generator: [https://videogamena.me/](https://videogamena.me/).
-- Pixel art will be done using the fantastic pixel art graphic editor Aseprite: [https://www.aseprite.org/](https://www.aseprite.org/)\*
+- Pixel art will be done using the fantastic pixel art graphic editor Aseprite: [https://www.aseprite.org/](https://www.aseprite.org/) \*
 - Some of the graphics (like the screenshots for this page) will be done using the free paint tool paint.NET: [https://www.getpaint.net/](https://www.getpaint.net/)
 - Prototyping, game development and the final programming will be done using the free personal edition of Unity 3D: [https://store.unity.com/download?ref=personal](https://store.unity.com/download?ref=personal)
-- The code for the game in C# will be written using the fast, lightweight and versatile editor Sublime Text 3: [https://www.sublimetext.com/3](https://www.sublimetext.com/3)\*²
+- The code for the game in C# will be written using the fast, lightweight and versatile editor Sublime Text 3: [https://www.sublimetext.com/3](https://www.sublimetext.com/3) \*²
 - The basics for the game are outlined in the following tutorial: [https://unity3d.com/de/learn/tutorials/s/2d-roguelike-tutorial](https://unity3d.com/de/learn/tutorials/s/2d-roguelike-tutorial)
 - The prototyping assets for this tutorial are taken from the tutorials accompanying free asset pack in the unity asset store: [https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-roguelike-29825](https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-roguelike-29825)
   (these will later be replaced by my own handmade sprites)
 - Mobile touch input implemented following the basic instructions in these unity mobile tutorials: [https://unity3d.com/de/learn/tutorials/topics/mobile-touch/multi-touch-input?playlist=17138](https://unity3d.com/de/learn/tutorials/topics/mobile-touch/multi-touch-input?playlist=17138)
 - Testing the game on android and building the final apk was done following the instructions in this unity tutorial: [https://unity3d.com/de/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing?playlist=17138](https://unity3d.com/de/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing?playlist=17138)
-- Version control, all the used assets of the game, the complete project code and all the unity project files are available for download in this public github repository of the project: [https://github.com/ndbiller/beansjam_mobile](https://github.com/ndbiller/beansjam_mobile)\*³
+- Version control, all the used assets of the game, the complete project code and all the unity project files are available for download in this public github repository of the project: [https://github.com/ndbiller/beansjam_mobile](https://github.com/ndbiller/beansjam_mobile) \*³
 
 \* [Aseprite](https://www.aseprite.org/) is not for free and I bought it some time ago, because it is awesome and well worth the few bucks the developers charge you for it. But you can always download the source code of Aseprite directly [from their github repository](https://github.com/aseprite/aseprite/) and compile it on your computer for free, if you know how to do that and really don't want to pay any money for it now. I used to work with it for a long time in this way too, before finally deciding to buy it to support the devs.
 
