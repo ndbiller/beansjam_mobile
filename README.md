@@ -4,7 +4,7 @@
   Done for fun in 48 hours.
   Original game jam entry page can be found on [itch.io](https://ndbiller.itch.io/all-night-polka-in-the-bayou):
 
-![title screen v0.1](/img/title.png "picture of the white game title on a black background")  
+![**title screen**: version 0.1](/img/title.png "picture of the white game title on a black background")
 
 ## [All-Night Polka in the Bayou](https://ndbiller.itch.io/all-night-polka-in-the-bayou)
 
@@ -16,6 +16,8 @@ An entry for the [Rocketbeans TV](https://www.rocketbeans.tv/) [BeansJam Mobile]
 Hard!
 
 **Overwiew**: I will be Following some simple Unity tutorials, testing the 2D features of Unity (since I haven't been using Unity for quite some time now) while working with the included prototyping sprites from the tutorial available from the Unity asset store. Then I will switch them out along the way with some handmade pixel art and sprites inspired by the Rocketbeans guys and their work which I'll be creating in Aseprite. I'll add some more pictures telling a story, and thus working in the two required themes I have selected for this game from the three available ones: **Blues**, **Jahrmarkt** and **Dilemma**. Then I'll add some soundeffects and try to find a few polka-and-blues-inspired songs that complement the atmosphere and story of the project. In the end this will hopefully produce the 2D android rogue-like apk before the 48 hour timer hits zero. And finally, I'll try to document the necessary project steps and all the progress done here. Hopefully this'll show others how making games is fun and how this all can easily be be done by anyone if you just try.
+
+![**step one**: finding a name and an idea (the easy way).](img/namefinding.png "screenshot of the video game name generator used to come up with the game title randomly")
 
 ### Tools and Ressources:
 - Title and initial idea created using the awesome video game name generator: [https://videogamena.me/](https://videogamena.me/).
