@@ -6,7 +6,7 @@ A downloadable game for Android
 
 ![**title screen**](/img/title.png "picture of the title screen")
 
-An entry for the [Rocketbeans TV](https://www.rocketbeans.tv/) [BeansJam Mobile](https://itch.io/jam/beansjam) game jam 2018. Developed by [one person](https://ndbiller.github.io/portfolio/index.html) using mainly free software in 48 hours.
+An entry for the [Rocketbeans TV](https://www.rocketbeans.tv/) [BeansJam Mobile](https://itch.io/jam/beansjam) game jam 2018. Developed by [one person](https://ndbiller.github.io/portfolio/index.html) in 48 hours using mainly free software.
 
 ## DISCLAIMER:
 
@@ -49,7 +49,7 @@ Hard!
 ## TODO:
 
 - [x] set up android debugging
-- [ ] fix android game resolution
+- [x] fix android game resolution
 - [ ] title screen
 - [ ] story screens
 - [ ] credits screen
@@ -59,6 +59,9 @@ Hard!
 - [ ] more enemy sprites - *nice to have*
 - [ ] different level biome tiles - *nice to have*
 - [ ] implement different level biomes - *nice to have*
+- [ ] story progression on biome change - *nice to have*​
+- [ ] boss battle - *nice to have*​
+- [ ] win state - *nice to have*​
 
 ## CREDITS:
 
