@@ -6,7 +6,7 @@ A downloadable game for Android
 
 ![**title screen**](/img/title.png "picture of the title screen")
 
-An entry for the [Rocketbeans TV](https://www.rocketbeans.tv/) [BeansJam Mobile](https://itch.io/jam/beansjam) game jam 2018. Developed by [one person](https://ndbiller.github.io/portfolio/index.html) using mainly free software in 48 hours.
+An entry for the [Rocketbeans TV](https://www.rocketbeans.tv/) [BeansJam Mobile](https://itch.io/jam/beansjam) game jam 2018. Developed by [one person](https://ndbiller.github.io/portfolio/index.html) in 48 hours using mainly free software.
 
 ## DISCLAIMER:
 
@@ -34,7 +34,7 @@ Hard!
 
 ### Download
 
-[all_night_polka_in_the_bayou.apk](all_night_polka_in_the_bayou.apk) v0.2
+[all_night_polka_in_the_bayou.apk](all_night_polka_in_the_bayou.apk) v0.5
 
 ### Screenshots
 
@@ -48,17 +48,22 @@ Hard!
 
 ## TODO:
 
-- [ ] set up android debugging
-- [ ] fix android game resolution
-- [ ] title screen
-- [ ] story screens
-- [ ] credits screen
+- [x] set up android debugging
+- [x] fix android game resolution
+- [x] title screen
+- [x] story screen / instructions
+- [x] credits screen
 - [ ] create custom sprites
 - [ ] return to title screen from game over state
+- [ ] add more music and fade between tracks - *nice to have*
 - [ ] make enemies mortal - *nice to have*
 - [ ] more enemy sprites - *nice to have*
 - [ ] different level biome tiles - *nice to have*
 - [ ] implement different level biomes - *nice to have*
+- [ ] story progression on biome change - *nice to have*​
+- [ ] boss battle - *nice to have*​
+- [ ] win state - *nice to have*​
+- [ ] ASCII level sprites (player as @, Zombies as Z, etc.) as easteregg - *nice to have*
 
 ## CREDITS:
 
@@ -66,6 +71,10 @@ Hard!
 
 - polkamundo! by a.gorilly (c) copyright 2010 Licensed under a Creative Commons Attribution (3.0) license. http://dig.ccmixter.org/files/lillygorilly/29027 Ft: herkko, pingnews, Bitcrusher, illusivemind
 - The Zombie Sings composed by C.P.Bryan provided by freesoundtrackmusic.com
+
+### Scripts
+
+- ViewportHandler.cs, MIT License, Copyright (c) 2014, Marcel Căşvan
 
 ### Tools and Ressources:
 
