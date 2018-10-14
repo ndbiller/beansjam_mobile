@@ -48,7 +48,7 @@ Hard!
 
 ## TODO:
 
-- [ ] set up android debugging
+- [x] set up android debugging
 - [ ] fix android game resolution
 - [ ] title screen
 - [ ] story screens
