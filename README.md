@@ -67,6 +67,10 @@ Hard!
 - polkamundo! by a.gorilly (c) copyright 2010 Licensed under a Creative Commons Attribution (3.0) license. http://dig.ccmixter.org/files/lillygorilly/29027 Ft: herkko, pingnews, Bitcrusher, illusivemind
 - The Zombie Sings composed by C.P.Bryan provided by freesoundtrackmusic.com
 
+### Scripts
+
+- ViewportHandler.cs, MIT License, Copyright (c) 2014, Marcel Căşvan
+
 ### Tools and Ressources:
 
 - Title and initial idea created using the awesome video game name generator: [https://videogamena.me/](https://videogamena.me/).

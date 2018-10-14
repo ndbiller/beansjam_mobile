@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class SpinLogo : MonoBehaviour {
 
+	public GameObject logo;
+
 	// Use this for initialization
 	void Start () {
 		
