@@ -52,3 +52,10 @@ Hard!
 ![**step two**: creating the units.](img/units.png "screenshot of the player and enemies in unity 3d in their idle animation")
 
 ![**step three**: creating the tiles.](img/tiles.png "screenshot of the floor, items and enemy tiles being randomly created by the game manager")
+
+![**step four**: creating the game.](img/game.png "screenshot of the game after following the tutorials and resolving some issues - 24 hours left")
+
+### Music
+
+- polkamundo! by a.gorilly (c) copyright 2010 Licensed under a Creative Commons Attribution (3.0) license. http://dig.ccmixter.org/files/lillygorilly/29027 Ft: herkko, pingnews, Bitcrusher, illusivemind
+- The Zombie Sings composed by C.P.Bryan provided by freesoundtrackmusic.com
