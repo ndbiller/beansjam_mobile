@@ -14,7 +14,7 @@ public class TutorialInfo : MonoBehaviour
 	public string url;
 
 	// store the GameObject which renders the overlay info
-	public GameObject overlay;
+	public GameObject overlay, overlayCredits;
 
 	// store a reference to the audio listener in the scene, allowing for muting of the scene during the overlay
 	public AudioListener mainListener;
@@ -68,6 +68,7 @@ public class TutorialInfo : MonoBehaviour
 		Time.timeScale = 0f;
 		mainListener.enabled = false;
 		overlay.SetActive (true);
+		overlayCredits.SetActive (false);
 	}
 
 	// open the stored URL for this content in a web browser
@@ -79,10 +80,19 @@ public class TutorialInfo : MonoBehaviour
 	// continue to play, by ensuring the preference is set correctly, the overlay is not active, 
 	// and that the audio listener is enabled, and time scale is 1 (normal)
 	public void StartGame()
-	{		
+	{
+		overlayCredits.SetActive (false);
 		overlay.SetActive (false);
 		mainListener.enabled = true;
 		Time.timeScale = 1f;
+	}
+
+	// stop game time, activate credit overlay
+	public void StartCredits()
+	{	
+		Time.timeScale = 0f;
+		mainListener.enabled = false;
+		overlayCredits.SetActive (true);
 	}
 
 	// set the boolean storing show at start status to equal the UI toggle's status

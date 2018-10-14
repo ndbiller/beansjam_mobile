@@ -52,7 +52,7 @@ Hard!
 - [x] fix android game resolution
 - [ ] title screen
 - [ ] story screens
-- [ ] credits screen
+- [x] credits screen
 - [ ] create custom sprites
 - [ ] return to title screen from game over state
 - [ ] make enemies mortal - *nice to have*
