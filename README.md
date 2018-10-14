@@ -50,11 +50,12 @@ Hard!
 
 - [x] set up android debugging
 - [x] fix android game resolution
-- [ ] title screen
-- [ ] story screens
+- [x] title screen
+- [ ] story screen / instructions
 - [x] credits screen
 - [ ] create custom sprites
 - [ ] return to title screen from game over state
+- [ ] add more music and fade between tracks - *nice to have*
 - [ ] make enemies mortal - *nice to have*
 - [ ] more enemy sprites - *nice to have*
 - [ ] different level biome tiles - *nice to have*
@@ -62,6 +63,7 @@ Hard!
 - [ ] story progression on biome change - *nice to have*​
 - [ ] boss battle - *nice to have*​
 - [ ] win state - *nice to have*​
+- [ ] ASCII level sprites (player as @, Zombies as Z, etc.) as easteregg - *nice to have*
 
 ## CREDITS:
 
