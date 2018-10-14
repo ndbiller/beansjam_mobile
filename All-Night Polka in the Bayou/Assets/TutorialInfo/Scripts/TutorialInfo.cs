@@ -13,8 +13,8 @@ public class TutorialInfo : MonoBehaviour
 	// location that Visit Tutorial button sends the user
 	public string url;
 
-	// store the GameObject which renders the overlay info
-	public GameObject overlay, overlayCredits;
+	// store the GameObject which renders the start screen (overlay) info, credits and intro screens
+	public GameObject overlay, overlayCredits, overlayIntro;
 
 	// store a reference to the audio listener in the scene, allowing for muting of the scene during the overlay
 	public AudioListener mainListener;
@@ -69,6 +69,7 @@ public class TutorialInfo : MonoBehaviour
 		mainListener.enabled = false;
 		overlay.SetActive (true);
 		overlayCredits.SetActive (false);
+		overlayIntro.SetActive (false);
 	}
 
 	// open the stored URL for this content in a web browser
@@ -81,18 +82,31 @@ public class TutorialInfo : MonoBehaviour
 	// and that the audio listener is enabled, and time scale is 1 (normal)
 	public void StartGame()
 	{
+		overlayIntro.SetActive (false);
 		overlayCredits.SetActive (false);
 		overlay.SetActive (false);
 		mainListener.enabled = true;
 		Time.timeScale = 1f;
 	}
 
+	// show the intro screen
+	public void StartIntro()
+	{
+		overlayIntro.SetActive (true);
+		overlayCredits.SetActive (false);
+		overlay.SetActive (false);
+		mainListener.enabled = false;
+		Time.timeScale = 0f;
+	}
+
 	// stop game time, activate credit overlay
 	public void StartCredits()
 	{	
 		Time.timeScale = 0f;
-		mainListener.enabled = false;
+		mainListener.enabled = false;	
 		overlayCredits.SetActive (true);
+		overlayIntro.SetActive (false);
+		overlay.SetActive (false);
 	}
 
 	// set the boolean storing show at start status to equal the UI toggle's status

@@ -34,7 +34,7 @@ Hard!
 
 ### Download
 
-[all_night_polka_in_the_bayou.apk](all_night_polka_in_the_bayou.apk) v0.2
+[all_night_polka_in_the_bayou.apk](all_night_polka_in_the_bayou.apk) v0.5
 
 ### Screenshots
 
@@ -51,7 +51,7 @@ Hard!
 - [x] set up android debugging
 - [x] fix android game resolution
 - [x] title screen
-- [ ] story screen / instructions
+- [x] story screen / instructions
 - [x] credits screen
 - [ ] create custom sprites
 - [ ] return to title screen from game over state

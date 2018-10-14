@@ -7,6 +7,7 @@ namespace Completed
 	{
 		public AudioSource efxSource;					//Drag a reference to the audio source which will play the sound effects.
 		public AudioSource musicSource;					//Drag a reference to the audio source which will play the music.
+		public AudioSource creditMusicSource;			//Drag a reference to the audio source which will play the credit music.
 		public static SoundManager instance = null;		//Allows other scripts to call functions from SoundManager.				
 		public float lowPitchRange = .95f;				//The lowest a sound effect will be randomly pitched.
 		public float highPitchRange = 1.05f;			//The highest a sound effect will be randomly pitched.
